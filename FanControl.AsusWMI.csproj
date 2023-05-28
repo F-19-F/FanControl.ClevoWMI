@@ -48,8 +48,9 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="AsusWMIPlugin.cs" />
-    <Compile Include="AsusWMISensor.cs" />
+    <Compile Include="ClevoWMIControlSensorcs.cs" />
+    <Compile Include="ClevoWMIPlugin.cs" />
+    <Compile Include="ClevoWMISensor.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
